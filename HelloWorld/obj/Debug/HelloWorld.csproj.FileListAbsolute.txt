@@ -1,0 +1,10 @@
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Projets Visual Studio\Winform\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
